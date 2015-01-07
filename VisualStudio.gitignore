@@ -191,3 +191,7 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+# SharePoint project related intermediates
+[Pp]kg/
+[Pp]kgobj/
